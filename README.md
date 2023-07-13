@@ -1,3 +1,3 @@
 # FinancialTimeSeriesTDA
- This is an exploratory project for TDA applied to TimeSeries. We aim to use persistence modules to detect crashes. 
+ This is an exploratory project for TDA applied to crash detection. We aim to use degre 1 persistence modules and landscapes to detect crashes in Financial TimeSeries. 
  For the supervision of a student project on this subject.
